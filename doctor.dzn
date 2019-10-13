@@ -1,0 +1,7 @@
+num_days = 10; 
+num_doctors = 7; 
+req_day = 3; 
+req_night = 2; 
+min_night = 1; 
+min_day = 1; 
+min_off = 1; 
